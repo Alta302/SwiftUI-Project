@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI_Project9App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MyTabView(tabIndex: .home)
         }
     }
 }

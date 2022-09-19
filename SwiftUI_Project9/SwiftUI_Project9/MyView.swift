@@ -20,9 +20,10 @@ struct MyView: View {
             
             Text(title)
                 .font(.largeTitle)
-                .foregroundColor(.white)
                 .fontWeight(.bold)
+                .foregroundColor(.white)
         }
+        .animation(.none)
     }
 }
 

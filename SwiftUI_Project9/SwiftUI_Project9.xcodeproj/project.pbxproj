@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		E4065A2828D4712B0079D366 /* SwiftUI_Project9App.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4065A2728D4712B0079D366 /* SwiftUI_Project9App.swift */; };
-		E4065A2A28D4712B0079D366 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4065A2928D4712B0079D366 /* ContentView.swift */; };
 		E4065A2C28D4712D0079D366 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4065A2B28D4712D0079D366 /* Assets.xcassets */; };
 		E4065A2F28D4712D0079D366 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4065A2E28D4712D0079D366 /* Preview Assets.xcassets */; };
 		E4065A3628D4713D0079D366 /* MyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4065A3528D4713D0079D366 /* MyView.swift */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		E4065A2428D4712B0079D366 /* SwiftUI_Project9.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI_Project9.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4065A2728D4712B0079D366 /* SwiftUI_Project9App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Project9App.swift; sourceTree = "<group>"; };
-		E4065A2928D4712B0079D366 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E4065A2B28D4712D0079D366 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4065A2E28D4712D0079D366 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E4065A3528D4713D0079D366 /* MyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyView.swift; sourceTree = "<group>"; };
@@ -58,7 +56,6 @@
 				E4065A2728D4712B0079D366 /* SwiftUI_Project9App.swift */,
 				E4065A3528D4713D0079D366 /* MyView.swift */,
 				E4065A3728D472900079D366 /* MyTabView.swift */,
-				E4065A2928D4712B0079D366 /* ContentView.swift */,
 				E4065A2B28D4712D0079D366 /* Assets.xcassets */,
 				E4065A2D28D4712D0079D366 /* Preview Content */,
 			);
@@ -144,7 +141,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4065A3628D4713D0079D366 /* MyView.swift in Sources */,
-				E4065A2A28D4712B0079D366 /* ContentView.swift in Sources */,
 				E4065A3828D472900079D366 /* MyTabView.swift in Sources */,
 				E4065A2828D4712B0079D366 /* SwiftUI_Project9App.swift in Sources */,
 			);
